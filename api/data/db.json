@@ -1,0 +1,39 @@
+{
+  "notas": [
+    {
+      "description": "Debo terminar mi proyecto del tic-tact-toe",
+      "author": "Luis Rodriguez",
+      "active": true,
+      "completed": false,
+      "id": 1
+    },
+    {
+      "description": "Debo terminar mi proyecto del semaforo en react",
+      "author": "Luis J. Rodriguez O.",
+      "active": true,
+      "completed": false,
+      "id": 2
+    },
+    {
+      "description": "Debo terminar mi proyecto del semaforo en react",
+      "author": "Luis J. Rodriguez O.",
+      "active": true,
+      "completed": false,
+      "id": 3
+    },
+    {
+      "description": "Debo terminar mi proyecto del semaforo en react",
+      "author": "Luis J. Rodriguez O.",
+      "active": true,
+      "completed": false,
+      "id": 4
+    },
+    {
+      "description": "Debo terminar mi proyecto del semaforo en react",
+      "author": "Luis J. Rodriguez O.",
+      "active": true,
+      "completed": false,
+      "id": 5
+    }
+  ]
+}
