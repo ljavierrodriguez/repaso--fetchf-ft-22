@@ -30,8 +30,8 @@ const App = () => {
     }
 
     const addNota = (nota) => {
-        fetch("http://localhost:4000/notas", {
-            method: 'POST',
+        fetch("http://localhost:4000/notas/1", {
+            method: 'POST', // PUT
             body: JSON.stringify(nota),
             headers: {
                 'Content-Type': 'application/json'
